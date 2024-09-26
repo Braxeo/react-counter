@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.aligned {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+p {
+  margin-left: 10px;
+  margin-right: 10px;
+}
